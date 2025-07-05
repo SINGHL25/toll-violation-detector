@@ -3,3 +3,12 @@ streamlit
 firebase-admin
 ultralytics
 pandas
+### 🔹 requirements.txt
+```text
+opencv-python
+streamlit
+firebase-admin
+ultralytics
+pandas
+boto3
+```
